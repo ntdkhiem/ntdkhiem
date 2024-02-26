@@ -1,5 +1,8 @@
 # 💫 About Me:
-summary: Hi! I'm a first-generation Computer Science junior passionate in software engineer.<br>fun fact: I love soccer, badminton, and workout<br>Ask me about cloud technologies<br>i'm currently working on caption this! -- an online multiplayer game to find a memelord.
+🙌 Hello there! I'm **Khiem**, a first-generation Computer Science junior passionate in software engineer.<br><br>
+🎯 I love soccer ⚽, badminton 🏸, and working out 💪<br><br>
+☁️ Pick my brain about cloud technologies<br><br>
+🧑‍💻 i'm currently working on [Caption This!](https://github.com/ntdkhiem/caption-this) -- an online multiplayer game to find a memelord 🤡<br><br>
 
 
 ## 🌐 Socials:
