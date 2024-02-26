@@ -1,11 +1,11 @@
-## 💫 About Me
-🙌 Hello there! I'm **Khiem**, a first-generation Computer Science junior passionate in software engineer.<br><br>
-🎯 I love soccer ⚽, badminton 🏸, and working out 💪<br><br>
-☁️ Pick my brain about cloud technologies<br><br>
-🧑‍💻 i'm currently working on [Caption This!](https://github.com/ntdkhiem/caption-this) -- an online multiplayer game to find a memelord 🤡<br><br>
+# 💫 About Me
+🙌 Hello there! I'm **Khiem**, a first-generation Computer Science junior passionate in software engineer.<br/><br/>
+🎯 I love soccer ⚽, badminton 🏸, and working out 💪<br/><br/>
+☁️ Pick my brain about cloud technologies<br/><br/>
+🧑‍💻 i'm currently working on [Caption This!](https://github.com/ntdkhiem/caption-this) -- an online multiplayer game to find a memelord 🤡
 
 
-## 🌐 Socials
+# 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ntdkhiem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ntdkhiem) 
 
 # 💻 Tech Stack
