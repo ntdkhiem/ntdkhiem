@@ -2,7 +2,7 @@
 🙌 Hello there! I'm **Khiem**, a first-generation Computer Science junior passionate in software engineer.<br/><br/>
 🎯 I love soccer ⚽, badminton 🏸, and working out 💪<br/><br/>
 ☁️ Pick my brain about cloud technologies<br/><br/>
-🧑‍💻 i'm currently working on [Caption This!](https://github.com/ntdkhiem/caption-this) -- an online multiplayer game to find a memelord 🤡
+🧑‍💻 i'm currently working on a project for Solomon Group, LLC
 
 
 # 🌐 Socials
