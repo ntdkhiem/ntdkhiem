@@ -1,5 +1,5 @@
 # 💫 About Me
-🙌 Hello there! I'm **Khiem**, a first-generation Computer Science junior passionate in software engineer.<br/><br/>
+🙌 Hello there! I'm **Khiem**.<br/><br/>
 🎯 I love soccer ⚽, badminton 🏸, and working out 💪<br/><br/>
 ☁️ Pick my brain about cloud technologies<br/><br/>
 🧑‍💻 i'm currently working on a project for Solomon Group, LLC
