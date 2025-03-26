@@ -2,7 +2,7 @@
 🙌 Hello there! I'm **Khiem**.<br/><br/>
 🎯 I love soccer ⚽, badminton 🏸, and working out 💪<br/><br/>
 ☁️ Pick my brain about cloud technologies<br/><br/>
-🧑‍💻 i'm currently pursuing Google's Cloud Engineer Certification.
+🧑‍💻 i'm currently pursuing Google's Cloud Engineer Certification, AWS' Solution Architect -- Associate.
 
 
 # 🌐 Socials
